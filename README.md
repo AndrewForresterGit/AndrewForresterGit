@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AndrewForresterGit
-- 👀 I’m interested in computer science, physics, mathematics, philosophy, litterature, etc
-- 🌱 I’m currently learning the basics of programming
+- 👀 I’m interested in computer science, physics, mathematics, philosophy, litterature, etc...
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
